@@ -1,0 +1,12 @@
+# Python ignore
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Environment and sensitive data
+.env
+
+# Chroma vector database directory
+chroma_db/
+
